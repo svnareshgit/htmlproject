@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'niteceapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92BF682824A54F2CAD56F158FC80C837 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_530A8B04FCA04DC8AF2CDC0984BA8135 }}
           package: .
